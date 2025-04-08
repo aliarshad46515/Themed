@@ -6,7 +6,7 @@
   "homepage": "https://aliarshad46515.github.io/Ecommerce-Store",
   "scripts": {
     "dev": "vite",
-    "build": "react-scripts build",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
